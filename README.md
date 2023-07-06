@@ -29,21 +29,21 @@
 ## Assembly
 |  | Name 	|  Description 	| Author  	|  Stars 	|
 |---	|---	|---	|---	|---	|
-| 1 |  [MalwareSourceCode](https://github.com/vxunderground/MalwareSourceCode) | Collection of malware source code for a variety of platforms in an array of different programming languages. | vxunderground | 13000 |
+| 1 |  [MalwareSourceCode](https://github.com/vxunderground/MalwareSourceCode) | Collection of malware source code for a variety of platforms in an array of different programming languages. | vxunderground | 13001 |
 
 **[⬆ Back to Index](#-contents)**
 
 ## Blade
 |  | Name 	|  Description 	| Author  	|  Stars 	|
 |---	|---	|---	|---	|---	|
-| 1 |  [LinkStack](https://github.com/LinkStackOrg/LinkStack) | LinkStack - the ultimate solution for creating a personalized &amp; professional profile page. Showcase all your important links in one place, forget the limitation of one link on social media. Set up your personal site on your own server with just a few clicks. | LinkStackOrg | 1021 |
+| 1 |  [LinkStack](https://github.com/LinkStackOrg/LinkStack) | LinkStack - the ultimate solution for creating a personalized &amp; professional profile page. Showcase all your important links in one place, forget the limitation of one link on social media. Set up your personal site on your own server with just a few clicks. | LinkStackOrg | 1023 |
 
 **[⬆ Back to Index](#-contents)**
 
 ## C
 |  | Name 	|  Description 	| Author  	|  Stars 	|
 |---	|---	|---	|---	|---	|
-| 1 |  [ImageMagick](https://github.com/ImageMagick/ImageMagick) | 🧙‍♂️ ImageMagick 7 | ImageMagick | 9483 |
+| 1 |  [ImageMagick](https://github.com/ImageMagick/ImageMagick) | 🧙‍♂️ ImageMagick 7 | ImageMagick | 9484 |
 | 2 |  [bluepy](https://github.com/IanHarvey/bluepy) | Python interface to Bluetooth LE on Linux | IanHarvey | 1531 |
 
 **[⬆ Back to Index](#-contents)**
@@ -51,10 +51,10 @@
 ## C++
 |  | Name 	|  Description 	| Author  	|  Stars 	|
 |---	|---	|---	|---	|---	|
-| 1 |  [untrunc](https://github.com/ponchio/untrunc) | Restore a damaged (truncated) mp4, m4v, mov, 3gp video. Provided you have a similar not broken video. | ponchio | 1378 |
-| 2 |  [ESP32Marauder](https://github.com/justcallmekoko/ESP32Marauder) | A suite of WiFi/Bluetooth offensive and defensive tools for the ESP32 | justcallmekoko | 2615 |
+| 1 |  [untrunc](https://github.com/ponchio/untrunc) | Restore a damaged (truncated) mp4, m4v, mov, 3gp video. Provided you have a similar not broken video. | ponchio | 1379 |
+| 2 |  [ESP32Marauder](https://github.com/justcallmekoko/ESP32Marauder) | A suite of WiFi/Bluetooth offensive and defensive tools for the ESP32 | justcallmekoko | 2616 |
 | 3 |  [magic-mic](https://github.com/audo-ai/magic-mic) | Open Source Noise Cancellation App for Virtual Meetings | audo-ai | 230 |
-| 4 |  [pycdc](https://github.com/zrax/pycdc) | C++ python bytecode disassembler and decompiler | zrax | 2033 |
+| 4 |  [pycdc](https://github.com/zrax/pycdc) | C++ python bytecode disassembler and decompiler | zrax | 2037 |
 | 5 |  [flameshot](https://github.com/flameshot-org/flameshot) | Powerful yet simple to use screenshot software :desktop_computer: :camera_flash: | flameshot-org | 21222 |
 
 **[⬆ Back to Index](#-contents)**
@@ -62,17 +62,17 @@
 ## CSS
 |  | Name 	|  Description 	| Author  	|  Stars 	|
 |---	|---	|---	|---	|---	|
-| 1 |  [50projects50days](https://github.com/bradtraversy/50projects50days) | 50+ mini web projects using HTML, CSS &amp; JS | bradtraversy | 29255 |
-| 2 |  [public-pentesting-reports](https://github.com/juliocesarfort/public-pentesting-reports) | A list of public penetration test reports published by several consulting firms and academic security groups. | juliocesarfort | 7384 |
+| 1 |  [50projects50days](https://github.com/bradtraversy/50projects50days) | 50+ mini web projects using HTML, CSS &amp; JS | bradtraversy | 29262 |
+| 2 |  [public-pentesting-reports](https://github.com/juliocesarfort/public-pentesting-reports) | A list of public penetration test reports published by several consulting firms and academic security groups. | juliocesarfort | 7386 |
 | 3 |  [spicetify-themes](https://github.com/spicetify/spicetify-themes) | A community-driven collection of themes for customizing Spotify through Spicetify - https://github.com/spicetify/spicetify-cli | spicetify | 4312 |
-| 4 |  [Blue-Topaz_Obsidian-css](https://github.com/PKM-er/Blue-Topaz_Obsidian-css) | A blue theme for Obsidian. | PKM-er | 858 |
+| 4 |  [Blue-Topaz_Obsidian-css](https://github.com/PKM-er/Blue-Topaz_Obsidian-css) | A blue theme for Obsidian. | PKM-er | 859 |
 
 **[⬆ Back to Index](#-contents)**
 
 ## Go
 |  | Name 	|  Description 	| Author  	|  Stars 	|
 |---	|---	|---	|---	|---	|
-| 1 |  [fzf](https://github.com/junegunn/fzf) | :cherry_blossom: A command-line fuzzy finder | junegunn | 53049 |
+| 1 |  [fzf](https://github.com/junegunn/fzf) | :cherry_blossom: A command-line fuzzy finder | junegunn | 53067 |
 | 2 |  [parsemail](https://github.com/DusanKasan/parsemail) | Simple email parsing for Golang | DusanKasan | 184 |
 
 **[⬆ Back to Index](#-contents)**
@@ -95,7 +95,7 @@
 ## JavaScript
 |  | Name 	|  Description 	| Author  	|  Stars 	|
 |---	|---	|---	|---	|---	|
-| 1 |  [clean-code-javascript](https://github.com/ryanmcdermott/clean-code-javascript) | :bathtub: Clean Code concepts adapted for JavaScript | ryanmcdermott | 83479 |
+| 1 |  [clean-code-javascript](https://github.com/ryanmcdermott/clean-code-javascript) | :bathtub: Clean Code concepts adapted for JavaScript | ryanmcdermott | 83500 |
 | 2 |  [alacritty-themes](https://github.com/rajasegar/alacritty-themes) | :rainbow: :lollipop: Themes :candy: :heart_eyes: for Alacritty: A cross-platform GPU-accelerated Terminal emulator | rajasegar | 603 |
 
 **[⬆ Back to Index](#-contents)**
@@ -110,7 +110,7 @@
 ## Lua
 |  | Name 	|  Description 	| Author  	|  Stars 	|
 |---	|---	|---	|---	|---	|
-| 1 |  [tokyonight.nvim](https://github.com/folke/tokyonight.nvim) | 🏙  A clean, dark Neovim theme written in Lua, with support for lsp, treesitter and lots of plugins. Includes additional themes for Kitty, Alacritty, iTerm and Fish. | folke | 3833 |
+| 1 |  [tokyonight.nvim](https://github.com/folke/tokyonight.nvim) | 🏙  A clean, dark Neovim theme written in Lua, with support for lsp, treesitter and lots of plugins. Includes additional themes for Kitty, Alacritty, iTerm and Fish. | folke | 3835 |
 
 **[⬆ Back to Index](#-contents)**
 
@@ -124,28 +124,28 @@
 ## Others
 |  | Name 	|  Description 	| Author  	|  Stars 	|
 |---	|---	|---	|---	|---	|
-| 1 |  [react-bits](https://github.com/vasanthk/react-bits) | ✨ React patterns, techniques, tips and tricks ✨ | vasanthk | 15494 |
-| 2 |  [project-based-learning](https://github.com/practical-tutorials/project-based-learning) | Curated list of project-based tutorials | practical-tutorials | 109379 |
+| 1 |  [react-bits](https://github.com/vasanthk/react-bits) | ✨ React patterns, techniques, tips and tricks ✨ | vasanthk | 15498 |
+| 2 |  [project-based-learning](https://github.com/practical-tutorials/project-based-learning) | Curated list of project-based tutorials | practical-tutorials | 109431 |
 | 3 |  [jessfraz](https://github.com/jessfraz/jessfraz) |  | jessfraz | 65 |
 | 4 |  [awesome-bluetooth-security](https://github.com/engn33r/awesome-bluetooth-security) | List of Bluetooth BR/EDR/LE security resources | engn33r | 323 |
 | 5 |  [braktooth_esp32_bluetooth_classic_attacks](https://github.com/Matheus-Garbelini/braktooth_esp32_bluetooth_classic_attacks) | A Series of Baseband &amp; LMP Exploits against Bluetooth Classic Controllers | Matheus-Garbelini | 321 |
 | 6 |  [rarbg](https://github.com/2004content/rarbg) | Backup of magnets from RARBG | 2004content | 4694 |
-| 7 |  [awesome](https://github.com/sindresorhus/awesome) | 😎 Awesome lists about all kinds of interesting topics | sindresorhus | 260760 |
-| 8 |  [How-To-Secure-A-Linux-Server](https://github.com/imthenachoman/How-To-Secure-A-Linux-Server) | An evolving how-to guide for securing a Linux server. | imthenachoman | 14940 |
-| 9 |  [awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme) | 😎 A curated list of awesome GitHub Profile READMEs 📝 | abhisheknaiidu | 18540 |
-| 10 |  [awesome-readme](https://github.com/matiassingers/awesome-readme) | A curated list of awesome READMEs | matiassingers | 14878 |
-| 11 |  [openbox-theme-collections](https://github.com/addy-dclxvi/openbox-theme-collections) | My Openbox Theme Collections | addy-dclxvi | 910 |
+| 7 |  [awesome](https://github.com/sindresorhus/awesome) | 😎 Awesome lists about all kinds of interesting topics | sindresorhus | 260804 |
+| 8 |  [How-To-Secure-A-Linux-Server](https://github.com/imthenachoman/How-To-Secure-A-Linux-Server) | An evolving how-to guide for securing a Linux server. | imthenachoman | 14941 |
+| 9 |  [awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme) | 😎 A curated list of awesome GitHub Profile READMEs 📝 | abhisheknaiidu | 18541 |
+| 10 |  [awesome-readme](https://github.com/matiassingers/awesome-readme) | A curated list of awesome READMEs | matiassingers | 14877 |
+| 11 |  [openbox-theme-collections](https://github.com/addy-dclxvi/openbox-theme-collections) | My Openbox Theme Collections | addy-dclxvi | 911 |
 | 12 |  [NSA-Linux-Hardening-docs](https://github.com/shaurya-007/NSA-Linux-Hardening-docs) |  | shaurya-007 | 133 |
-| 13 |  [free-programming-books](https://github.com/EbookFoundation/free-programming-books) | :books: Freely available programming books | EbookFoundation | 285860 |
-| 14 |  [osint-namecheckers-list](https://github.com/soxoj/osint-namecheckers-list) | A list of tools to search accounts by username | soxoj | 273 |
-| 15 |  [awesome-reverse-engineering](https://github.com/alphaSeclab/awesome-reverse-engineering) | Reverse Engineering Resources About All Platforms(Windows/Linux/macOS/Android/iOS/IoT) And Every Aspect! (More than 3500 open source tools and 2300 posts&amp;videos) | alphaSeclab | 3942 |
+| 13 |  [free-programming-books](https://github.com/EbookFoundation/free-programming-books) | :books: Freely available programming books | EbookFoundation | 285899 |
+| 14 |  [osint-namecheckers-list](https://github.com/soxoj/osint-namecheckers-list) | A list of tools to search accounts by username | soxoj | 272 |
+| 15 |  [awesome-reverse-engineering](https://github.com/alphaSeclab/awesome-reverse-engineering) | Reverse Engineering Resources About All Platforms(Windows/Linux/macOS/Android/iOS/IoT) And Every Aspect! (More than 3500 open source tools and 2300 posts&amp;videos) | alphaSeclab | 3943 |
 | 16 |  [LolSec](https://github.com/lolsecs/LolSec) | Collection Of LolSec | lolsecs | 29 |
-| 17 |  [build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) | Master programming by recreating your favorite technologies from scratch. | codecrafters-io | 207352 |
+| 17 |  [build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) | Master programming by recreating your favorite technologies from scratch. | codecrafters-io | 207389 |
 | 18 |  [awesome-for-beginners](https://github.com/ab-anand/awesome-for-beginners) | A list of awesome beginners-friendly projects. | ab-anand | 4 |
-| 19 |  [Awesome-Hacking-Resources](https://github.com/vitalysim/Awesome-Hacking-Resources) | A collection of hacking / penetration testing resources to make you better! | vitalysim | 13605 |
-| 20 |  [Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) | A collection of various awesome lists for hackers, pentesters and security researchers | Hack-with-Github | 66641 |
+| 19 |  [Awesome-Hacking-Resources](https://github.com/vitalysim/Awesome-Hacking-Resources) | A collection of hacking / penetration testing resources to make you better! | vitalysim | 13606 |
+| 20 |  [Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) | A collection of various awesome lists for hackers, pentesters and security researchers | Hack-with-Github | 66654 |
 | 21 |  [Get_Better_at_CP_in_2_Months](https://github.com/ab-anand/Get_Better_at_CP_in_2_Months) | This contains the curriculum that I will follow to get better at Competitive Programming in 2 months. | ab-anand | 1 |
-| 22 |  [modern-unix](https://github.com/ibraheemdev/modern-unix) | A collection of modern/faster/saner alternatives to common unix commands. | ibraheemdev | 27050 |
+| 22 |  [modern-unix](https://github.com/ibraheemdev/modern-unix) | A collection of modern/faster/saner alternatives to common unix commands. | ibraheemdev | 27054 |
 
 **[⬆ Back to Index](#-contents)**
 
@@ -160,12 +160,12 @@
 ## Python
 |  | Name 	|  Description 	| Author  	|  Stars 	|
 |---	|---	|---	|---	|---	|
-| 1 |  [chatgpt-retrieval](https://github.com/techleadhd/chatgpt-retrieval) |  | techleadhd | 754 |
-| 2 |  [knob](https://github.com/francozappa/knob) | Key Negotiation Of Bluetooth (KNOB) attacks on Bluetooth BR/EDR and BLE  [CVE-2019-9506] | francozappa | 161 |
+| 1 |  [knob](https://github.com/francozappa/knob) | Key Negotiation Of Bluetooth (KNOB) attacks on Bluetooth BR/EDR and BLE  [CVE-2019-9506] | francozappa | 161 |
+| 2 |  [chatgpt-retrieval](https://github.com/techleadhd/chatgpt-retrieval) |  | techleadhd | 763 |
 | 3 |  [bluing](https://github.com/fO-000/bluing) | An intelligence gathering tool for hacking Bluetooth | fO-000 | 574 |
 | 4 |  [sparrow-wifi](https://github.com/ghostop14/sparrow-wifi) | Next-Gen GUI-based WiFi and Bluetooth Analyzer for Linux | ghostop14 | 944 |
 | 5 |  [OpenFreebuds](https://github.com/melianmiko/OpenFreebuds) | Open source app for HUAWEI FreeBuds (Linux + Windows + Android) | melianmiko | 32 |
-| 6 |  [Bluetooth_Headset_Battery_Level](https://github.com/TheWeirdDev/Bluetooth_Headset_Battery_Level) | A python script to get battery level from Bluetooth headsets | TheWeirdDev | 697 |
+| 6 |  [Bluetooth_Headset_Battery_Level](https://github.com/TheWeirdDev/Bluetooth_Headset_Battery_Level) | A python script to get battery level from Bluetooth headsets | TheWeirdDev | 698 |
 | 7 |  [hashpic](https://github.com/0xflotus/hashpic) | Hashpic creates an image from a MD5, SHA512, SHA3-512, Blake2b or SHAKE256 hash | 0xflotus | 19 |
 | 8 |  [Riptide](https://github.com/billythegoat356/Riptide) | A powerful tool allowing you to reverse .EXE back to .PY | billythegoat356 | 162 |
 | 9 |  [PyFuscation](https://github.com/CBHue/PyFuscation) | Obfuscate powershell scripts by replacing Function names, Variables and Parameters. | CBHue | 481 |
@@ -173,19 +173,19 @@
 | 11 |  [pyarmor](https://github.com/dashingsoft/pyarmor) | A tool used to obfuscate python scripts, bind obfuscated scripts to fixed machine or expire obfuscated scripts. | dashingsoft | 2300 |
 | 12 |  [PyArmor-Unpacker](https://github.com/Svenskithesource/PyArmor-Unpacker) | A deobfuscator for PyArmor. | Svenskithesource | 330 |
 | 13 |  [pydumpck](https://github.com/serfend/pydumpck) | a multi-threads tool for decompile exe,elf,pyz,pyc packed by python which is base on pycdc and uncompyle6. | serfend | 163 |
-| 14 |  [pyWhat](https://github.com/bee-san/pyWhat) | 🐸   Identify anything. pyWhat easily lets you identify emails, IP addresses, and more. Feed it a .pcap file or some text and it&#39;ll tell you what it is! 🧙‍♀️ | bee-san | 6014 |
+| 14 |  [pyWhat](https://github.com/bee-san/pyWhat) | 🐸   Identify anything. pyWhat easily lets you identify emails, IP addresses, and more. Feed it a .pcap file or some text and it&#39;ll tell you what it is! 🧙‍♀️ | bee-san | 6013 |
 | 15 |  [Awesome-Linux-Software](https://github.com/luong-komorebi/Awesome-Linux-Software) | 🐧 A list of awesome Linux softwares | luong-komorebi | 19458 |
 | 16 |  [RoastBot](https://github.com/Tylersuard/RoastBot) | A chat bot that insults its user!  Type &#34;Roast me&#34; to start. | Tylersuard | 21 |
-| 17 |  [Azure-in-bullet-points](https://github.com/undergroundwires/Azure-in-bullet-points) | ☁️ Azure summary in bullet points | undergroundwires | 967 |
-| 18 |  [wifi-password](https://github.com/sdushantha/wifi-password) | Quickly fetch your WiFi password and if needed, generate a QR code of your WiFi to allow phones to easily connect | sdushantha | 2658 |
-| 19 |  [kitty-themes](https://github.com/dexpota/kitty-themes) | A collection of themes for kitty terminal 😻 | dexpota | 1960 |
-| 20 |  [snoop](https://github.com/snooppr/snoop) | Snoop — инструмент разведки на основе открытых данных (OSINT world) | snooppr | 1954 |
+| 17 |  [Azure-in-bullet-points](https://github.com/undergroundwires/Azure-in-bullet-points) | ☁️ Azure summary in bullet points | undergroundwires | 969 |
+| 18 |  [wifi-password](https://github.com/sdushantha/wifi-password) | Quickly fetch your WiFi password and if needed, generate a QR code of your WiFi to allow phones to easily connect | sdushantha | 2657 |
+| 19 |  [kitty-themes](https://github.com/dexpota/kitty-themes) | A collection of themes for kitty terminal 😻 | dexpota | 1961 |
+| 20 |  [snoop](https://github.com/snooppr/snoop) | Snoop — инструмент разведки на основе открытых данных (OSINT world) | snooppr | 1955 |
 | 21 |  [plasma](https://github.com/plasma-disassembler/plasma) | Plasma is an interactive disassembler for x86/ARM/MIPS. It can generates indented pseudo-code with colored syntax. | plasma-disassembler | 3016 |
 | 22 |  [xeuledoc](https://github.com/Malfrats/xeuledoc) | Fetch information about a public Google document. | Malfrats | 679 |
-| 23 |  [pyinstxtractor](https://github.com/extremecoders-re/pyinstxtractor) | PyInstaller Extractor | extremecoders-re | 1789 |
-| 24 |  [python-decompile3](https://github.com/rocky/python-decompile3) | Python decompiler for 3.7-3.8 Stripped down from uncompyle6 so we can refactor and start to fix up some long-standing problems | rocky | 861 |
+| 23 |  [pyinstxtractor](https://github.com/extremecoders-re/pyinstxtractor) | PyInstaller Extractor | extremecoders-re | 1790 |
+| 24 |  [python-decompile3](https://github.com/rocky/python-decompile3) | Python decompiler for 3.7-3.8 Stripped down from uncompyle6 so we can refactor and start to fix up some long-standing problems | rocky | 862 |
 | 25 |  [psdash](https://github.com/Jahaja/psdash) | A linux system information web dashboard using psutils and flask | Jahaja | 2393 |
-| 26 |  [wtfpython](https://github.com/satwikkansal/wtfpython) | What the f*ck Python? 😱 | satwikkansal | 32830 |
+| 26 |  [wtfpython](https://github.com/satwikkansal/wtfpython) | What the f*ck Python? 😱 | satwikkansal | 32831 |
 | 27 |  [pyc2bytecode](https://github.com/knight0x07/pyc2bytecode) | A Python Bytecode Disassembler helping reverse engineers in dissecting Python binaries by disassembling and analyzing the compiled python byte-code(.pyc) files across all python versions (including Python 3.10.*) | knight0x07 | 110 |
 | 28 |  [Katana](https://github.com/TebbaaX/Katana) | Python Tool that gives you the ability to run Advanced Google Queries (Known as Google Dorks - Google Dorking) - (No longer maintained) | TebbaaX | 916 |
 | 29 |  [Anonymous](https://github.com/H1R0GH057/Anonymous) |  | H1R0GH057 | 1637 |
@@ -199,15 +199,15 @@
 ## Rust
 |  | Name 	|  Description 	| Author  	|  Stars 	|
 |---	|---	|---	|---	|---	|
-| 1 |  [universal-android-debloater](https://github.com/0x192/universal-android-debloater) | Cross-platform GUI written in Rust using ADB to debloat non-rooted android devices. Improve your privacy, the security and battery life of your device. | 0x192 | 10297 |
-| 2 |  [crab](https://github.com/crablang/crab) | A community fork of a language named after a plant fungus. All of the memory-safe features you love, now with 100% less bureaucracy! | crablang | 4771 |
+| 1 |  [universal-android-debloater](https://github.com/0x192/universal-android-debloater) | Cross-platform GUI written in Rust using ADB to debloat non-rooted android devices. Improve your privacy, the security and battery life of your device. | 0x192 | 10301 |
+| 2 |  [crab](https://github.com/crablang/crab) | A community fork of a language named after a plant fungus. All of the memory-safe features you love, now with 100% less bureaucracy! | crablang | 4773 |
 | 3 |  [obsidian-export](https://github.com/zoni/obsidian-export) | Rust library and CLI to export an Obsidian vault to regular Markdown | zoni | 679 |
-| 4 |  [RustScan](https://github.com/RustScan/RustScan) | 🤖 The Modern Port Scanner 🤖 | RustScan | 10302 |
+| 4 |  [RustScan](https://github.com/RustScan/RustScan) | 🤖 The Modern Port Scanner 🤖 | RustScan | 10310 |
 | 5 |  [rnote](https://github.com/flxzt/rnote) | Sketch and take handwritten notes. | flxzt | 4185 |
-| 6 |  [rustlings](https://github.com/rust-lang/rustlings) | :crab: Small exercises to get you used to reading and writing Rust code! | rust-lang | 40023 |
+| 6 |  [rustlings](https://github.com/rust-lang/rustlings) | :crab: Small exercises to get you used to reading and writing Rust code! | rust-lang | 40029 |
 | 7 |  [dim](https://github.com/Dusk-Labs/dim) | Dim, a media manager fueled by dark forces. | Dusk-Labs | 3355 |
 | 8 |  [szyszka](https://github.com/qarmin/szyszka) | Szyszka is fast and powerful file renamer | qarmin | 713 |
-| 9 |  [spotify-adblock](https://github.com/abba23/spotify-adblock) | Adblocker for Spotify | abba23 | 1403 |
+| 9 |  [spotify-adblock](https://github.com/abba23/spotify-adblock) | Adblocker for Spotify | abba23 | 1404 |
 | 10 |  [ttyper](https://github.com/max-niederman/ttyper) | Terminal-based typing test. | max-niederman | 642 |
 
 **[⬆ Back to Index](#-contents)**
@@ -215,23 +215,23 @@
 ## Shell
 |  | Name 	|  Description 	| Author  	|  Stars 	|
 |---	|---	|---	|---	|---	|
-| 1 |  [setup-ipsec-vpn](https://github.com/hwdsl2/setup-ipsec-vpn) | Scripts to build your own IPsec VPN server, with IPsec/L2TP, Cisco IPsec and IKEv2 | hwdsl2 | 22238 |
+| 1 |  [setup-ipsec-vpn](https://github.com/hwdsl2/setup-ipsec-vpn) | Scripts to build your own IPsec VPN server, with IPsec/L2TP, Cisco IPsec and IKEv2 | hwdsl2 | 22243 |
 | 2 |  [illustratorCClinux](https://github.com/Gictorbit/illustratorCClinux) | Illustrator CC v17 installer for Gnu/Linux | Gictorbit | 693 |
-| 3 |  [android-security-awesome](https://github.com/ashishb/android-security-awesome) | A collection of android security related resources | ashishb | 7026 |
-| 4 |  [lynis](https://github.com/CISOfy/lynis) | Lynis - Security auditing tool for Linux, macOS, and UNIX-based systems. Assists with compliance testing (HIPAA/ISO27001/PCI DSS) and system hardening. Agentless, and installation optional. | CISOfy | 10949 |
+| 3 |  [android-security-awesome](https://github.com/ashishb/android-security-awesome) | A collection of android security related resources | ashishb | 7029 |
+| 4 |  [lynis](https://github.com/CISOfy/lynis) | Lynis - Security auditing tool for Linux, macOS, and UNIX-based systems. Assists with compliance testing (HIPAA/ISO27001/PCI DSS) and system hardening. Agentless, and installation optional. | CISOfy | 10951 |
 | 5 |  [toggle-monitor-grayscale](https://github.com/bubbleguuum/toggle-monitor-grayscale) | Toggle Xorg monitors between color and grayscale mode | bubbleguuum | 54 |
 | 6 |  [dots](https://github.com/GideonWolfe/dots) | 🌀 my linux configuration | GideonWolfe | 79 |
-| 7 |  [whoami-project](https://github.com/owerdogan/whoami-project) | Whoami provides enhanced privacy, anonymity for Debian and Arch based linux distributions | owerdogan | 1591 |
-| 8 |  [pi-hole](https://github.com/pi-hole/pi-hole) | A black hole for Internet advertisements | pi-hole | 42776 |
+| 7 |  [whoami-project](https://github.com/owerdogan/whoami-project) | Whoami provides enhanced privacy, anonymity for Debian and Arch based linux distributions | owerdogan | 1590 |
+| 8 |  [pi-hole](https://github.com/pi-hole/pi-hole) | A black hole for Internet advertisements | pi-hole | 42777 |
 | 9 |  [tmpmail](https://github.com/sdushantha/tmpmail) | A temporary email right from your terminal written in POSIX sh | sdushantha | 3186 |
-| 10 |  [archer-t2u-plus-linux](https://github.com/nlkguy/archer-t2u-plus-linux) | TP-Link Archer T2U Plus / AC600 High Gain USB Wifi Adapter Review &amp; Driver installation Guide for various platforms. | nlkguy | 225 |
+| 10 |  [archer-t2u-plus-linux](https://github.com/nlkguy/archer-t2u-plus-linux) | TP-Link Archer T2U Plus / AC600 High Gain USB Wifi Adapter Review &amp; Driver installation Guide for various platforms. | nlkguy | 226 |
 
 **[⬆ Back to Index](#-contents)**
 
 ## TypeScript
 |  | Name 	|  Description 	| Author  	|  Stars 	|
 |---	|---	|---	|---	|---	|
-| 1 |  [upscayl](https://github.com/upscayl/upscayl) | 🆙 Upscayl - Free and Open Source AI Image Upscaler for Linux, MacOS and Windows built with Linux-First philosophy. | upscayl | 15567 |
+| 1 |  [upscayl](https://github.com/upscayl/upscayl) | 🆙 Upscayl - Free and Open Source AI Image Upscaler for Linux, MacOS and Windows built with Linux-First philosophy. | upscayl | 15589 |
 
 **[⬆ Back to Index](#-contents)**
 
